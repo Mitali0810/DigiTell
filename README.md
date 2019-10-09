@@ -8,7 +8,7 @@ This Repository presents an approach to off-line handwritten digit recognition b
 
 Run performRecognition live.py if you have a webcam and detect your images.
 Run performRecognition Scanned.py if you don't have a webcam and detect the scanned images.
-you can also upload your images of handwritten digits and specify them in the program.
+You can also upload your images of handwritten digits and specify them in the program.
 
 We can Run perform Recognition scanned if you have scanned images with digits written in it or you can also use 
 sample_1.jpg or sample_2.jpg for scanning.
