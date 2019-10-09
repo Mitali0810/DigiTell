@@ -7,7 +7,7 @@ Handwritten character recognition is one of the practically essential issues in 
 This Repository presents an approach to off-line handwritten digit recognition based on different machine learning techniques. The main objective of this Repository is to ensure effective and reliable strategies for the Recognition of handwritten digits. This Repository Tries to replicate the Machine learning algorithm, namely Support Vector Machine (SVM) which has been used for the Recognition of the digits. 
 
 Run performRecognition live.py if you have a webcam and detect your images.
-Run performRecognition Scanned.py if you dont have a webcam and detect the scanned images.
+Run performRecognition Scanned.py if you don,t have a webcam and detect the scanned images.
 
 We can Run perform Recognition scanned if you have scanned images with digits written in it or you can also use 
 sample_1.jpg or sample_2.jpg for scanning.
