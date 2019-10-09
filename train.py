@@ -24,7 +24,7 @@ y_train, y_test = y[:60000], y[60000:]
 X_train = X_train /255
 X_test = X_test /255
 
-#creating Neural Network
+#creating Neural Network now
 # Neural Network has one hidden layer with 512 units
 # Neural NetWork is of size 784-512-10
 
